@@ -1,0 +1,27 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "address": "123 Main Street, Springfield",
+      "phone": "+1-555-1234"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "address": "456 Elm Street, Metropolis",
+      "phone": "+1-555-5678"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "address": "789 Oak Avenue, Gotham",
+      "phone": "+1-555-8765"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "address": "321 Pine Road, Star City",
+      "phone": "+1-555-4321"
+    }
+  ]
+  
